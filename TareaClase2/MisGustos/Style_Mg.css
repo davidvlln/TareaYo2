@@ -1,0 +1,29 @@
+@media screen and (max-width: 1872px) {
+    .imaSonGst {
+        position: fixed;
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .imaSonGst{
+        position: relative;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 1872px) {
+    .textMisGt {
+        height: 300px;
+        padding-left: 520px;
+    }
+}
+
+
+@media screen and (max-width: 800px) {
+    .textMisGt {
+        position: relative;
+        padding:0%;
+    }
+}
